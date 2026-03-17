@@ -2,11 +2,17 @@
 
 Мобильное приложение для отслеживания физической активности на Android, разработанное специально для российских пользователей.
 
+<img width="1541" height="864" alt="Снимок экрана 2026-03-15 125522" src="https://github.com/user-attachments/assets/7aef2d89-8399-498a-bb49-2e65101fbe41" />
+
 ## О проекте
 
 FitTrack Pro решает проблему недостаточной физической активности через простой и элегантный подход. Приложение делает фитнес доступным и приятным для каждого.
 
+<img width="1532" height="861" alt="image" src="https://github.com/user-attachments/assets/543d4c02-0bf6-4ad9-87ea-bd2685654863" />
+
 ## Функциональность
+
+<img width="1532" height="862" alt="image" src="https://github.com/user-attachments/assets/37a46cf9-576a-44bd-8000-fd69a2792f17" />
 
 ### 🏃 Базовый трекинг активности
 - Подсчет шагов
@@ -48,6 +54,8 @@ FitTrack Pro решает проблему недостаточной физич
 - Студенты
 - Офисные работники
 - Начинающие в фитнесе
+
+<img width="1532" height="862" alt="image" src="https://github.com/user-attachments/assets/3f34eb83-9ea5-499e-ac8d-b7a0b8dc13e3" />
 
 ## Установка
 
